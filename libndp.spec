@@ -63,7 +63,3 @@ necessary for developing programs using libndp.
 %{_includedir}/ndp.h
 %{_libdir}/libndp.so
 %{_libdir}/pkgconfig/libndp.pc
-
-%changelog
-* Tue Feb 18 2014 Per Øyvind Karlsen <proyvind@mandriva.org> 1.2-1
-- initial Moondrake release
