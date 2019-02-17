@@ -4,12 +4,12 @@
 
 Summary:	Library for Neighbor Discovery Protocol
 Name:		libndp
-Version:	1.6
-Release:	2
+Version:	1.7
+Release:	1
 License:	LGPLv2.1+
 Group:		System/Libraries
 Url:		http://www.libndp.org/
-Source0:	http://www.libndp.org/files/%{name}-%{version}.tar.gz
+Source0:	https://github.com/jpirko/libndp/archive/v%{version}.tar.gz
 
 %description
 This package contains a library which provides a wrapper
