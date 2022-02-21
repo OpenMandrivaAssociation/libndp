@@ -4,7 +4,7 @@
 
 Summary:	Library for Neighbor Discovery Protocol
 Name:		libndp
-Version:	1.7
+Version:	1.8
 Release:	1
 License:	LGPLv2.1+
 Group:		System/Libraries
