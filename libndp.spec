@@ -17,7 +17,7 @@ Version:	1.9
 Release:	1
 License:	LGPLv2.1+
 Group:		System/Libraries
-Url:		http://www.libndp.org/
+Url:		https://www.libndp.org/
 Source0:	https://github.com/jpirko/libndp/archive/v%{version}.tar.gz
 BuildRequires:	autoconf automake
 %if %{with compat32}
