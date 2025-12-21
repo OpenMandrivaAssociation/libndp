@@ -19,6 +19,8 @@ License:	LGPLv2.1+
 Group:		System/Libraries
 Url:		https://www.libndp.org/
 Source0:	https://github.com/jpirko/libndp/archive/v%{version}.tar.gz
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
 BuildRequires:	autoconf automake
 %if %{with compat32}
 BuildRequires:	libc6
